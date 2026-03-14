@@ -1,8 +1,7 @@
 # 📸 Flutter Camera App - TP4
 
-**USTHB - Faculté Informatique | Dept. ID&SD**  
+**USTHB - Faculté Informatique**
 **Module:** Développement Mobile  
-**Étudiante:** Meriem Saiki | **Matricule:** 232331454607
 
 ---
 
